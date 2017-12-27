@@ -11,3 +11,4 @@ Features:
 # Meta Balls
 ![Img](http://patomkin.com/wp-content/uploads/12.png)
 http://patomkin.com/blog/metaball-tutorial/
+http://jamie-wong.com/2016/07/06/metaballs-and-webgl/
